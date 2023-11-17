@@ -73,4 +73,14 @@
 - [Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram](https://arxiv.org/abs/2010.05646)
 - [End-to-End Multilingual TTS with Transformer](https://arxiv.org/pdf/2210.06370.pdf)
 
+### Астериск
+
+- [Asterisk](https://github.com/asterisk/asterisk)
+
+### Bert
+
+- [Статья на хабре](https://habr.com/ru/articles/562064/)
+- [Модель на HuggingFace](https://huggingface.co/cointegrated/rubert-tiny)
+- [Обучаем свой Bert](https://github.com/shitkov/bert4classification)
+
 Благодарим за интерес к нашему проекту! Надеемся, что предоставленные ресурсы и инструменты будут полезны в вашей работе с распознаванием и синтезом речи на русском языке.
