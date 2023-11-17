@@ -83,4 +83,9 @@
 - [Модель на HuggingFace](https://huggingface.co/cointegrated/rubert-tiny)
 - [Обучаем свой Bert](https://github.com/shitkov/bert4classification)
 
+### Аугментации и исправление опечаток
+
+- [Аугментации](https://github.com/ai-forever/augmentex)
+- [Исправление опечаток](https://github.com/ai-forever/sage)
+
 Благодарим за интерес к нашему проекту! Надеемся, что предоставленные ресурсы и инструменты будут полезны в вашей работе с распознаванием и синтезом речи на русском языке.
